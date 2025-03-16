@@ -1,0 +1,14 @@
+C:\Users\HP\tcpChat\Client\bin\Debug\net9.0\Client.exe
+C:\Users\HP\tcpChat\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\HP\tcpChat\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\HP\tcpChat\Client\bin\Debug\net9.0\Client.dll
+C:\Users\HP\tcpChat\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.dll
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\HP\tcpChat\Client\obj\Debug\net9.0\ref\Client.dll
